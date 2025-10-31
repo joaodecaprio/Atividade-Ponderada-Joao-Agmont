@@ -1,3 +1,4 @@
+'''cpp
 // Pinos dos LEDs
 int ledVermelho = 8;
 int ledAmarelo  = 9;
@@ -46,5 +47,6 @@ void loop() {
         tempoAnterior = tempoAtual;
       }
       break;
+      '''
   }
 }
